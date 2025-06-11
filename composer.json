@@ -1,0 +1,19 @@
+{
+    "name": "izzad/s1.07-testing-tema-7",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Izzad\\S107TestingTema7\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Isadora Matias",
+            "email": "izzadora@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
